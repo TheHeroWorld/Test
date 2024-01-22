@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.json
+user_log.txt
+telegram_info.txt
+Users.txt
+
+# Virtual Environments
+venv
+env/
